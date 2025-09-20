@@ -50,3 +50,39 @@ O conjunto de dados utilizado contém informações sobre os clientes, como:
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/seu-usuario/nome-do-projeto.git
+
+   Navegue até o diretório do projeto:
+
+cd nome-do-projeto
+
+
+Instale as dependências (recomendado criar um ambiente virtual):
+
+pip install -r requirements.txt
+
+
+Abra o Jupyter Notebook e explore o projeto:
+
+jupyter notebook
+
+Estrutura do Repositório
+nome-do-projeto/
+│
+├── data/               # Conjunto de dados utilizados
+├── notebooks/          # Notebooks com análise e visualizações
+├── reports/            # Relatórios e insights gerados
+├── requirements.txt    # Dependências do projeto
+└── README.md           # Este arquivo
+
+Resultados Esperados
+
+Identificação dos principais motivos de cancelamento.
+
+Visualizações que auxiliem na tomada de decisão.
+
+Estratégias e recomendações para retenção de clientes e redução do churn.
+
+Autor
+
+Pedro H. Mendonça
+(https://www.linkedin.com/in/pedrohmmwing/)
